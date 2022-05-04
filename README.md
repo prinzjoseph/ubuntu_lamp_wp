@@ -1,8 +1,6 @@
 # Install Wordpress on Ubuntu 20.04
 
-*Functions*
-*LAMP - lamp.sh*
-*Wordpress - wp.sh*
+*Functions \n LAMP - lamp.sh \n Wordpress - wp.sh*
 
 To execute the script:
 ```
